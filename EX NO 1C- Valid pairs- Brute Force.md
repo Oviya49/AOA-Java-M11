@@ -1,5 +1,5 @@
-
 # EX 1C Valid Pairs using Brute Force Approach
+## DATE:20/7/26
 ## AIM:
 To write a Java program to for given constraints.
 Given an integer array nums and an integer k, return the number of pairs (i, j) where i < j such that |nums[i] - nums[j]| == k.
@@ -28,6 +28,10 @@ If true, increment count by 1.
 5.Display the total count of such pairs and stop the program. 
 
 ## Program:
+```
+Developed by: OVIYA N
+Register Number: 212223040140
+```
 ```
 
 import java.util.Scanner;
