@@ -1,6 +1,5 @@
-
 # EX 1B Power of 2
-
+## DATE:18/7/26
 ## AIM:
 To write a Java program to for given constraints.Given an integer n, return true if it is a power of two. Otherwise, return false.
 
@@ -25,6 +24,10 @@ If the result is 0, then n is a power of two; otherwise, it is not.
   
 
 ## Program:
+```
+Developed by: OVIYA N
+Register Number: 212223040140
+```
 ```
 
 import java.util.Scanner;
