@@ -1,6 +1,5 @@
-
 # EX 1E Integer Multiplication using Divide and Conquer Approach(Strassen’s algorithm).
-
+## DATE:28/7/26
 ## AIM:
 To write a Java program to for given constraints.
 You are given two square matrices A and B of size n × n (where n is a power of 2). Your task is to compute their matrix product using Strassen’s Matrix Multiplication algorithm and return the resulting matrix.
@@ -38,6 +37,10 @@ Then merge C11, C12, C21, C22 to get the final matrix C.
 
 
 ## Program:
+```
+Developed by: OVIYA N
+Register Number: 212223040140
+```
 ```
 
 import java.util.Scanner;
